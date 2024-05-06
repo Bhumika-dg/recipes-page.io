@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(224, 181, 181);
+    color:rgb(255, 255, 255);
+}
+
+.custom-navbar{
+    background-color: rgb(158, 96, 96);
+}
+.navbar-nav .nav-link {
+    color: white !important; 
+}
+#Header a:hover
+{
+    color: rgb(224, 181, 181)!important;
+
+}
+#About{
+    margin-top:100px;
+    margin-left:40px;
+    font-size: 30px;
+    
+}
+
+.custom-card {
+    background-color: rgb(158, 96, 96); 
+     
+    margin-top: 20px;
+    border-radius: 20px; 
+}
+.image-container{
+    max-height: 10px !important;
+}
+#Juices{
+    margin-top:100px;
+    margin-left:40px;
+
+}
+#Juices .hr{
+    margin:0 10px;
+    border: 4px solid white;
+}
+#Smoothies{
+    margin-top:100px;
+    margin-left:40px;
+
+}
+#Salad{
+    margin-top:100px;
+    margin-left:40px;
+
+}
+#Meals{
+    margin-top:100px;
+    margin-left:40px;
+
+}
+#Soup{
+    margin-top:100px;
+    margin-left:40px;
+
+}
+#Desserts{
+    margin-top:100px;
+    margin-left:40px;
+
+}
